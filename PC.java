@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
-public class PC {
+public class Hack{
 
     // Converts a string value in given base to decimal (supports alphanumeric)
     private static BigInteger convertToDecimal(String value, int base) {
